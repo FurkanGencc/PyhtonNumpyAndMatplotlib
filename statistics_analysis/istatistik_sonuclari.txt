@@ -1,0 +1,64 @@
+YAŞ Aritmetik ortalama: 23.704347826086956
+BOY Aritmetik ortalama: 175.56302521008402
+KİLO Aritmetik ortalama: 75.98319327731092
+Ç_Saati Aritmetik ortalama: 4.530252100840337
+
+YAŞ Medyan: 24
+BOY Medyan: 176
+KİLO Medyan: 77
+Ç_Saati Medyan: 4.6
+
+YAŞ Mod: 20
+BOY Mod: 181
+KİLO Mod: 61
+Ç_Saati Mod: 5.5
+
+YAŞ Değişim aralığı: 12
+BOY Değişim aralığı: 45
+KİLO Değişim aralığı: 48
+Ç_Saati Değişim aralığı: 6.9
+
+YAŞ Ortalama Mutlak Sapma: 3.2128544423440437
+BOY Ortalama Mutlak Sapma: 10.464797683779388
+KİLO Ortalama Mutlak Sapma: 12.169338323564736
+Ç_Saati Ortalama Mutlak Sapma: 1.7936868865193134
+
+YAŞ Varyans: 14.104805491990835
+BOY Varyans: 146.1464178891896
+KİLO Varyans: 197.30479988605617
+Ç_Saati Varyans: 4.357043156245551
+
+YAŞ Standart Sapma: 3.7556364962534428
+BOY Standart Sapma: 12.089103270680981
+KİLO Standart Sapma: 14.046522697310397
+Ç_Saati Standart Sapma: 2.087353146031009
+
+YAŞ Değişim Katsayısı: 15.843660934304694%
+BOY Değişim Katsayısı: 6.885905079509079%
+KİLO Değişim Katsayısı: 18.486354799601166%
+Ç_Saati Değişim Katsayısı: 46.0758717079744%
+
+YAŞ Varyans: 14.104805491990835
+BOY Varyans: 146.1464178891896
+KİLO Varyans: 197.30479988605617
+Ç_Saati Varyans: 4.357043156245551
+
+YAŞ Standart Sapma: 3.7556364962534428
+BOY Standart Sapma: 12.089103270680981
+KİLO Standart Sapma: 14.046522697310397
+Ç_Saati Standart Sapma: 2.087353146031009
+
+YAŞ Degisim Katsayisi: 15.843660934304694%
+BOY Degisim Katsayisi: 6.885905079509079%
+KİLO Degisim Katsayisi: 18.486354799601166%
+Ç_Saati Degisim Katsayisi: 46.0758717079744%
+
+YAŞ Çeyrekler Açıklığı: 7
+BOY Çeyrekler Açıklığı: 23
+KİLO Çeyrekler Açıklığı: 25
+Ç_Saati Çeyrekler Açıklığı: 3.8
+
+YAŞ Aykırı Değerler: [90, 119, 120, 123, 124]
+BOY Aykırı Değerler: [300]
+KİLO Aykırı Değerler: [130]
+Ç_Saati Aykırı Değerler: [30.0]
